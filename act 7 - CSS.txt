@@ -1,0 +1,11 @@
+body {
+    font-family: Graphik;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #292b2c;
+    background-color: black;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}D
